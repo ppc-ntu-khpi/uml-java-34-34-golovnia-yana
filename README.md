@@ -1,5 +1,5 @@
 <img src="https://github.com/ppc-ntu-khpi/UML-Starter/blob/master/other/UML-Java.png" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/UML-Starter/blob/master/other/UML-Java.png" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/uml-java-34-34-golovnia-yana/blob/master/other/class-diagram.jpeg" width="100%"/>
 
 # Практична робота "Проектування ієрархії класів. Використання UML"
 
@@ -10,8 +10,8 @@
 
 ----
 
-## Обране завдання
-5. система керування закладом громадського харчування (страви, замовлення, клієнти, працівники тощо)
+## Обране завдання:
+Система керування закладом громадського харчування (страви, замовлення, клієнти, працівники тощо)
 
 ## Використаний інструмент:
-5. [GenMyModel](http://www.genmymodel.com/) - онлайновий сервіс, раджу познайомитись з ним ближче! 
+[GenMyModel](http://www.genmymodel.com/) - онлайновий сервіс, раджу познайомитись з ним ближче! 

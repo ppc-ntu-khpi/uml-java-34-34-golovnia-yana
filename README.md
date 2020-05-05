@@ -1,9 +1,9 @@
-<img src="https://github.com/ppc-ntu-khpi/UML-Starter/blob/master/other/UML-Java.png" width="100%"/>
-<img src="https://github.com/ppc-ntu-khpi/uml-java-34-34-golovnia-yana/blob/master/other/class-diagram.jpeg" width="100%"/>
+<img src="https://github.com/ppc-ntu-khpi/UML-Starter/blob/master/other/UML-Java.png" width="80%"/>
+<img src="https://github.com/ppc-ntu-khpi/uml-java-34-34-golovnia-yana/blob/master/other/class-diagram.jpeg" width="90%"/>
 
 # Практична робота "Проектування ієрархії класів. Використання UML"
 
-## В рамках практичної роботи ви маєте зробити наступне:
+## В рамках практичної роботи було зроблено:
 1. Створена діаграму класів для предметної області завдання.
 3. Виконана кодогенерацію за діаграмою, завантажено результат (згенерований код) до теки ````src````
 3. Файли проектів, діаграми у "рідному" форматі (що буде), інші проміжні файли - завантажено до теки ````other````
